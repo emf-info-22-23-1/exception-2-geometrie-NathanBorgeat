@@ -17,7 +17,7 @@ public class Ctrl implements ICtrlIhm {
 
         refIhm.afficheMessage("");
         refIhm.afficheResultatCircle("");
-        
+
         try {
             double valueDouble = Double.parseDouble(value);
             refIhm.afficheResultatCircle(String.valueOf(refWorker.calcRadiusCircleFromArea(valueDouble)));

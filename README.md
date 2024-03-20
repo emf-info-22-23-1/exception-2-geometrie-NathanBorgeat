@@ -20,7 +20,7 @@ De plus, répondez à la question suivante :
 « Mais pour quelle raison le programme reçu qui fonctionnait déjà n’avait pas de try/catch afin d’attraper ces exceptions-là ? Car je croyais que le fait qu’une méthode de Java susceptible d’en générer et qui en plus l’indique dans sa signature à l’aide de la clause throws obligerait l’appelant à les traiter non ? »  
 
 ## Votre réponse
-*indiquer votre réponse ici*
+???
 
 
 # Réaliser un contrôle par binôme 
